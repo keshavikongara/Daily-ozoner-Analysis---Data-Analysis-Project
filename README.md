@@ -1,22 +1,22 @@
 # Daily-ozoner-Analysis-Data-visualization-Project
 
-# Daily Ozoner Analysis 🌫️
+# Daily Ozoner Analysis 
 
 This project analyzes air quality (ozone) levels in the United States using data from the EPA Air Quality System from 2020 to 2021.
 
-## 📊 Key Questions Addressed
+## Key Questions Addressed
 - Which state had the highest 1st Max AQI value?
 - What is the average AQI by state?
 - How do event types affect AQI levels?
 - What is the relationship between observation count and arithmetic mean?
 
-## 🛠️ Tools Used
+## Tools Used
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Jupyter Notebook
 - Tableau (for interactive geospatial visuals)
 - CSV data from EPA AQS
 
-## 📊 Project Goals
+## Project Goals
 
 We aimed to answer the following key questions using data analysis and visualizations:
 
